@@ -1,20 +1,18 @@
 🕘️更新时间,#genre#
-2025-12-15 18:40:47,http://116.237.37.244:8888/rtp/239.45.1.125:5140
+2025-12-16 06:33:50,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 
 📺央视频道,#genre#
-CETV-1,http://116.237.37.244:8888/rtp/239.45.1.125:5140
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
-CETV-4,http://116.237.37.244:8888/rtp/239.45.0.21:5140
 CETV-4,http://116.237.37.244:8888/rtp/239.45.1.243:5140
-CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
+CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000
 
 💰央视付费频道,#genre#
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
-央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
+央视台球,http://dassby.qqff.top:99/live/央视台球/index.m3u8
 央视台球,rtsp://115.153.245.70/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.247.80/PLTV/88888888/224/3221226955/86106661.smil
 央视台球,rtsp://115.153.230.145/PLTV/88888888/224/3221226955/86106661.smil
@@ -28,8 +26,8 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 电视指南,http://171.83.103.119:9999/rtp/239.69.1.87:10162
 世界地理,http://ygbh.site/php/bfgd.php?id=177
 世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8
-世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://61.184.46.85:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 世界地理,http://183.11.239.36:808/hls/11/index.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 世界地理,rtsp://115.153.245.70/PLTV/88888888/224/3221226965/86128966.smil
@@ -43,17 +41,15 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 
 ☘️上海频道,#genre#
-东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
-东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
-东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
 全纪实,http://183.215.134.239:19901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+全纪实,http://139.196.151.191/rtp/239.45.3.135:5140
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 欢笑剧场,http://116.237.37.244:8888/rtp/239.45.3.196:5140
+欢笑剧场,http://139.196.151.191/rtp/239.45.3.196:5140
+欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
+欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
+欢笑剧场,http://183.220.107.138:4022/rtp/239.10.0.129:5140
 法治天地,http://116.237.37.244:8888/rtp/239.45.1.46:5140
 法治天地,http://171.83.103.119:9999/rtp/239.69.2.10:11214
 法治天地,http://112.254.55.106:22222/rtp/239.253.254.96:8000
@@ -61,9 +57,9 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
 纪实人文,http://144.255.32.94:8288/rtp/239.21.1.195:5002
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
+都市剧场,http://112.254.55.106:22222/rtp/239.253.254.98:8000
 都市剧场,http://116.237.37.244:8888/rtp/239.45.3.136:5140
 都市剧场,http://171.83.103.119:9999/rtp/239.69.2.4:11178
-都市剧场,http://112.254.55.106:22222/rtp/239.253.254.98:8000
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
@@ -71,10 +67,10 @@ CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328
 翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
@@ -82,54 +78,25 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 靖天资讯,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240926215313&ip=111.229.253.40
 
 🈳无结果频道,#genre#
-CCTV-1,url
-CCTV-2,url
-CCTV-3,url
-CCTV-4,url
-CCTV-5,url
-CCTV-5+,url
-CCTV-6,url
-CCTV-7,url
-CCTV-8,url
-CCTV-9,url
-CCTV-10,url
-CCTV-11,url
-CCTV-12,url
 CCTV-13,url
 CCTV-14,url
-CCTV-15,url
 CCTV-16,url
-CCTV-17,url
-CETV-2,url
 风云足球,url
-广东卫视,url
 浙江卫视,url
-湖北卫视,url
 黑龙江卫视,url
-重庆卫视,url
 东方卫视,url
 东南卫视,url
 甘肃卫视,url
 广西卫视,url
-海南卫视,url
-吉林卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
-内蒙古卫视,url
-宁夏卫视,url
-青海卫视,url
-陕西卫视,url
-三沙卫视,url
 西藏卫视,url
 七彩戏剧,url
 上海外语,url
@@ -137,7 +104,7 @@ CETV-2,url
 上海新闻综合,url
 上海第一财经,url
 上海都市,url
-哈哈炫动,url
+东方财经,url
 嘉定电视台,url
 崇明电视台,url
 金山电视台,url
