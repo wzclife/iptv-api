@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-26 06:32:31,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2025-12-26 18:35:27,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -22,9 +22,9 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 🌊港·澳·台,#genre#
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
@@ -36,14 +36,29 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 
 🈳无结果频道,#genre#
 CCTV-1,url
+CCTV-2,url
+CCTV-3,url
+CCTV-4,url
+CCTV-5,url
+CCTV-5+,url
+CCTV-6,url
+CCTV-7,url
+CCTV-8,url
+CCTV-9,url
+CCTV-10,url
+CCTV-11,url
+CCTV-12,url
 CCTV-15,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
 CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
 第一剧场,url
+风云剧场,url
 怀旧剧场,url
 女性时尚,url
 高尔夫网球,url
@@ -51,6 +66,7 @@ CETV-4,url
 电视指南,url
 世界地理,url
 兵器科技,url
+广东卫视,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
@@ -59,13 +75,23 @@ CETV-4,url
 甘肃卫视,url
 海南卫视,url
 河南卫视,url
+吉林卫视,url
+江苏卫视,url
+江西卫视,url
 辽宁卫视,url
+内蒙古卫视,url
+宁夏卫视,url
+青海卫视,url
 山东卫视,url
+陕西卫视,url
+三沙卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
+上海都市,url
 东方财经,url
 全纪实,url
+哈哈炫动,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
