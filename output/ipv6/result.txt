@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-14 18:39:15,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-01-15 06:35:04,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -18,11 +18,11 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 翡翠台,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 J2,http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
@@ -46,8 +46,6 @@ CCTV-12,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
-CETV-1,url
-CETV-2,url
 CETV-3,url
 CETV-4,url
 文化精品,url
@@ -80,7 +78,6 @@ CETV-4,url
 江西卫视,url
 辽宁卫视,url
 内蒙古卫视,url
-宁夏卫视,url
 青海卫视,url
 山东卫视,url
 山西卫视,url
@@ -93,18 +90,13 @@ CETV-4,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
-上海新闻综合,url
-上海第一财经,url
-上海都市,url
 东方财经,url
 全纪实,url
-哈哈炫动,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
 欢笑剧场,url
 法治天地,url
-第一财经,url
 纪实人文,url
 都市剧场,url
 金山电视台,url
@@ -119,3 +111,4 @@ Viutv,url
 东森电影,url
 Now华剧,url
 靖天资讯,url
+星卫娱乐,url
