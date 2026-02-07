@@ -1,9 +1,9 @@
 🕘️更新时间,#genre#
-2026-02-07 06:37:43,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
+2026-02-07 18:39:35,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78
 
 📺央视频道,#genre#
+CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-202602060901440319625F0A338763618F-7sT6Ki&unique_id=stream-695106910011261612_684_flv&wsSecret=bbf37003c0e4945f50c24773724b6ae3&wsTime=69853d78
 CCTV-2,http://pull-flv-f1.douyincdn.com/media/stream-695106910011261612.flv?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&unique_id=stream-695106910011261612_684_flv&wsSecret=52d181562d8e2a5dee20184a94272ef3&wsTime=697ea150
-CCTV-13,http://pull-hs-f5.flive.douyincdn.com/media/stream-407007113483911852/index.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1770688986&major_anchor_level=common&sign=3aa3e00186f440d0f921c12439d38954&t_id=037-2026020310030656F42D511ACACA4B7BDF-VfrmzQ&volcSecret=3aa3e00186f440d0f921c12439d38954&volcTime=1770688986
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -26,6 +26,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 
 🈳无结果频道,#genre#
+CCTV-1,url
 CCTV-3,url
 CCTV-4,url
 CCTV-5,url
@@ -35,9 +36,13 @@ CCTV-7,url
 CCTV-8,url
 CCTV-9,url
 CCTV-10,url
+CCTV-11,url
+CCTV-12,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
 CETV-4,url
 文化精品,url
@@ -64,10 +69,14 @@ CETV-4,url
 广西卫视,url
 贵州卫视,url
 海南卫视,url
+河北卫视,url
 河南卫视,url
 吉林卫视,url
 江苏卫视,url
+江西卫视,url
 辽宁卫视,url
+内蒙古卫视,url
+宁夏卫视,url
 青海卫视,url
 山西卫视,url
 陕西卫视,url
@@ -78,8 +87,12 @@ CETV-4,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
+上海新闻综合,url
+上海第一财经,url
+上海都市,url
 东方财经,url
 全纪实,url
+哈哈炫动,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
@@ -88,6 +101,7 @@ CETV-4,url
 纪实人文,url
 都市剧场,url
 金山电视台,url
+凤凰香港,url
 凤凰卫视,url
 J2,url
 Viutv,url
