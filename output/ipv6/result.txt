@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-19 06:47:22,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-02-19 18:57:53,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -8,7 +8,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
 💰央视付费频道,#genre#
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-第一剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.18:6079
 
 📡卫视频道,#genre#
 湖南卫视,https://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/01.m3u8?&HlsSubType=&encrypt=
@@ -31,6 +30,7 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🈳无结果频道,#genre#
+CCTV-1,url
 CCTV-2,url
 CCTV-3,url
 CCTV-4,url
@@ -41,10 +41,15 @@ CCTV-7,url
 CCTV-8,url
 CCTV-9,url
 CCTV-10,url
+CCTV-11,url
+CCTV-12,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -65,18 +70,31 @@ CETV-3,url
 广西卫视,url
 贵州卫视,url
 海南卫视,url
+河北卫视,url
 河南卫视,url
+吉林卫视,url
+江西卫视,url
+辽宁卫视,url
+内蒙古卫视,url
+宁夏卫视,url
 青海卫视,url
+山东卫视,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
 深圳卫视,url
+三沙卫视,url
+天津卫视,url
 云南卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
+上海新闻综合,url
+上海第一财经,url
+上海都市,url
 东方财经,url
 全纪实,url
+哈哈炫动,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
