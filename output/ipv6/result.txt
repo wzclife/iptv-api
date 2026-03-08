@@ -1,9 +1,11 @@
 🕘️更新时间,#genre#
-2026-03-08 06:35:25,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-08 18:36:27,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773485225&major_anchor_level=common&sign=3d1a5df7eb85afad5490805a2e5f1586&t_id=037-2026030718470509DC28CF4944BE5BFF72-rNcHNp
 
 📺央视频道,#genre#
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-2,http://pull-hls-f11.douyincdn.com/media/stream-118899562654991020.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773485225&major_anchor_level=common&sign=3d1a5df7eb85afad5490805a2e5f1586&t_id=037-2026030718470509DC28CF4944BE5BFF72-rNcHNp
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773208553&major_anchor_level=common&sign=5e5791d5483cd383acea72b3a02bfd3c&t_id=037-202603041355521C4B9417BEA02331B2FB-H5hoZx
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695417071207187116.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773486844&major_anchor_level=common&sign=4c90bcfd86d44573b3da838fe8002650&t_id=037-20260307191403C100AF4F54F86D40782C-0Y2r2y
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
@@ -29,18 +31,25 @@ Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9Hv
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🈳无结果频道,#genre#
-CCTV-2,url
+CCTV-1,url
+CCTV-3,url
 CCTV-4,url
 CCTV-5,url
+CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
 CCTV-9,url
 CCTV-10,url
+CCTV-11,url
+CCTV-12,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -51,15 +60,31 @@ CETV-3,url
 电视指南,url
 世界地理,url
 兵器科技,url
+广东卫视,url
 浙江卫视,url
 湖南卫视,url
 北京卫视,url
+湖北卫视,url
+黑龙江卫视,url
+重庆卫视,url
 东方卫视,url
+东南卫视,url
+甘肃卫视,url
+海南卫视,url
+河北卫视,url
 河南卫视,url
+吉林卫视,url
+江苏卫视,url
+江西卫视,url
+辽宁卫视,url
+内蒙古卫视,url
+宁夏卫视,url
 青海卫视,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
+深圳卫视,url
+三沙卫视,url
 云南卫视,url
 七彩戏剧,url
 上海外语,url
