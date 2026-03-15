@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-15 06:38:41,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773804633&major_anchor_level=common&sign=2109708d3a2da5de3a916933ce117b28&t_id=037-20260311113033D59DBA10999672734FAF-UWe230
+2026-03-15 18:42:53,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773804633&major_anchor_level=common&sign=2109708d3a2da5de3a916933ce117b28&t_id=037-20260311113033D59DBA10999672734FAF-UWe230
 
 📺央视频道,#genre#
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773804633&major_anchor_level=common&sign=2109708d3a2da5de3a916933ce117b28&t_id=037-20260311113033D59DBA10999672734FAF-UWe230
@@ -39,10 +39,14 @@ CCTV-9,url
 CCTV-10,url
 CCTV-11,url
 CCTV-12,url
+CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -58,14 +62,20 @@ CETV-3,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
+重庆卫视,url
 东方卫视,url
+海南卫视,url
+河北卫视,url
 河南卫视,url
+吉林卫视,url
 辽宁卫视,url
+宁夏卫视,url
 青海卫视,url
 山东卫视,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
+三沙卫视,url
 西藏卫视,url
 云南卫视,url
 七彩戏剧,url
