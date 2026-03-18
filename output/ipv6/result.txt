@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2026-03-18 19:02:39,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237159&major_anchor_level=common&sign=f4a61f9c77210365df05b23dfc826a52&t_id=037-202603161139195D604AC09886F513985D-gkmqiV
+2026-03-19 06:42:57,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774237159&major_anchor_level=common&sign=f4a61f9c77210365df05b23dfc826a52&t_id=037-202603161139195D604AC09886F513985D-gkmqiV
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695463869641654956.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323312&major_anchor_level=common&sign=dfda07bbe4deae27fca9056fa74223e9&t_id=037-202603171135129F43485267BFE29CDDD5-aqeKOH
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323413&major_anchor_level=common&sign=bfb8ff74617fcdff19b7f069345bddbf&t_id=037-202603171136527F07B27D8B65BC930621-2vH0sa
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695465280141001388.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774323377&major_anchor_level=common&sign=772f12f93ba40960ef86c70179d8b7f5&t_id=037-20260317113617F541C88961455401EC09-KrODew
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -28,12 +27,9 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🈳无结果频道,#genre#
-CCTV-1,url
 CCTV-2,url
-CCTV-3,url
 CCTV-4,url
 CCTV-5,url
-CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
@@ -44,11 +40,7 @@ CCTV-12,url
 CCTV-14,url
 CCTV-15,url
 CCTV-16,url
-CCTV-17,url
-CETV-1,url
-CETV-2,url
 CETV-3,url
-CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -63,24 +55,12 @@ CETV-4,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
-重庆卫视,url
 东方卫视,url
-东南卫视,url
-广西卫视,url
-海南卫视,url
-河北卫视,url
 河南卫视,url
-吉林卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
-宁夏卫视,url
 青海卫视,url
-山东卫视,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
-三沙卫视,url
 西藏卫视,url
 云南卫视,url
 七彩戏剧,url
