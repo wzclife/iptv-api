@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2026-03-25 19:04:27,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-26 19:08:35,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774522531&major_anchor_level=common&sign=a97da9d1b4c332580a0e83b77cdb2206&t_id=037-2026031918553112BD480F88E3000CDAC3-gkb2g7
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918808&major_anchor_level=common&sign=b3878c1a2247d98cde883421739f259f&t_id=037-20260324090008721E99ACAF8E7B55FE8C-EJGazO
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695505348295131820.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918742&major_anchor_level=common&sign=a4d912bb7632093a3abd3ba49b433cfb&t_id=037-20260324085902304A0E23B51C7C6CBF90-Ll7Kft
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695522156380160684.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1774918775&major_anchor_level=common&sign=652227e1ccbd96789758df03130042e8&t_id=037-20260324085935D9CC04E5586526367433-KPv2OB
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -62,9 +60,9 @@ CETV-4,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
-安徽卫视,url
-重庆卫视,url
+黑龙江卫视,url
 东方卫视,url
+东南卫视,url
 海南卫视,url
 河北卫视,url
 河南卫视,url
@@ -77,6 +75,7 @@ CETV-4,url
 山西卫视,url
 陕西卫视,url
 四川卫视,url
+深圳卫视,url
 三沙卫视,url
 西藏卫视,url
 云南卫视,url
@@ -93,6 +92,7 @@ CETV-4,url
 纪实人文,url
 都市剧场,url
 金山电视台,url
+凤凰香港,url
 凤凰卫视,url
 Viutv,url
 东森综合,url
