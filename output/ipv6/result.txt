@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-01 06:46:35,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-04-01 19:13:13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -42,7 +42,10 @@ CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -73,6 +76,7 @@ CETV-3,url
 江西卫视,url
 辽宁卫视,url
 内蒙古卫视,url
+宁夏卫视,url
 青海卫视,url
 山东卫视,url
 山西卫视,url
