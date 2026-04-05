@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-04-05 18:49:20,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-04-06 06:47:40,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775812647&major_anchor_level=common&sign=a16a13163e5a1bb150e2fdd5448bc59d&t_id=037-2026040317172716CCE7A11D64BD3CD9C0-IOLuIy
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775651921&major_anchor_level=common&sign=0f3e5eb58649c980acb45c230fbd212e&t_id=037-20260401203840F95EAF06830CA99FC12D-5ue7Hg
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695579599148417708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775651827&major_anchor_level=common&sign=25aa61acbb8c946b2ee9ebd23cb4f905&t_id=037-202604012037061F5AB8029BCE7A81E5C7-0wCcv3
+CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1775812647&major_anchor_level=common&sign=a16a13163e5a1bb150e2fdd5448bc59d&t_id=037-2026040317172716CCE7A11D64BD3CD9C0-IOLuIy
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -17,8 +17,8 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 
 🌊港·澳·台,#genre#
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
@@ -44,10 +44,7 @@ CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
-CETV-1,url
-CETV-2,url
 CETV-3,url
-CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -77,7 +74,6 @@ CETV-4,url
 江西卫视,url
 辽宁卫视,url
 内蒙古卫视,url
-宁夏卫视,url
 青海卫视,url
 山东卫视,url
 山西卫视,url
