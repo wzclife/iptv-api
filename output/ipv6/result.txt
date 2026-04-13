@@ -1,11 +1,9 @@
 🕘️更新时间,#genre#
-2026-04-13 06:50:09,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-04-13 19:30:04,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695633213632807596.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776420045&major_anchor_level=common&sign=312791ac58700a363d025c0a94c1bbd0&t_id=037-2026041018004416AA7E707B88F1063B85-Nh2VkU
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776158091&major_anchor_level=common&sign=b6ff08dbb56dc9d66ae8fbe7a039d11e&t_id=037-202604071714506C37CC7AC813301C7CED-7CmlV9
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695553383939179180.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1776419927&major_anchor_level=common&sign=f41395f47f27736d88b7f87262d4f2bc&t_id=037-2026041017584642E293BBFE84F500BAB4-4pI58E
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -45,10 +43,14 @@ CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
+风云剧场,url
+怀旧剧场,url
 女性时尚,url
 高尔夫网球,url
 风云足球,url
@@ -59,37 +61,35 @@ CETV-3,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
-黑龙江卫视,url
-安徽卫视,url
-重庆卫视,url
 东方卫视,url
-东南卫视,url
-广西卫视,url
-贵州卫视,url
+海南卫视,url
 河北卫视,url
 河南卫视,url
 吉林卫视,url
 江苏卫视,url
-江西卫视,url
 辽宁卫视,url
+宁夏卫视,url
 青海卫视,url
-山东卫视,url
 山西卫视,url
 陕西卫视,url
-四川卫视,url
-深圳卫视,url
+三沙卫视,url
 西藏卫视,url
 云南卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
+上海新闻综合,url
+上海都市,url
+东方影视,url
 东方财经,url
 全纪实,url
+哈哈炫动,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
 欢笑剧场,url
 法治天地,url
+第一财经,url
 纪实人文,url
 都市剧场,url
 金山电视台,url
