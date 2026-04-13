@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-13 19:30:04,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-04-14 07:01:25,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -43,14 +43,10 @@ CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 CETV-1,url
-CETV-2,url
 CETV-3,url
-CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
-风云剧场,url
-怀旧剧场,url
 女性时尚,url
 高尔夫网球,url
 风云足球,url
@@ -60,36 +56,23 @@ CETV-4,url
 广东卫视,url
 湖南卫视,url
 北京卫视,url
-湖北卫视,url
 东方卫视,url
-海南卫视,url
-河北卫视,url
 河南卫视,url
-吉林卫视,url
-江苏卫视,url
-辽宁卫视,url
-宁夏卫视,url
 青海卫视,url
 山西卫视,url
 陕西卫视,url
-三沙卫视,url
 西藏卫视,url
 云南卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
-上海新闻综合,url
-上海都市,url
-东方影视,url
 东方财经,url
 全纪实,url
-哈哈炫动,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
 欢笑剧场,url
 法治天地,url
-第一财经,url
 纪实人文,url
 都市剧场,url
 金山电视台,url
