@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-04-28 07:08:51,https://xykt-fix.github.io/Y77.m3u8
+2026-04-28 19:56:30,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
@@ -13,6 +12,7 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 📡卫视频道,#genre#
 
 ☘️上海频道,#genre#
+欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001193/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 
 🌊港·澳·台,#genre#
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
@@ -33,9 +33,11 @@ CCTV-2,url
 CCTV-3,url
 CCTV-4,url
 CCTV-5,url
+CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
+CCTV-9,url
 CCTV-10,url
 CCTV-11,url
 CCTV-12,url
@@ -43,6 +45,8 @@ CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
+CETV-1,url
+CETV-2,url
 CETV-3,url
 CETV-4,url
 文化精品,url
@@ -54,11 +58,24 @@ CETV-4,url
 电视指南,url
 世界地理,url
 兵器科技,url
+广东卫视,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
+重庆卫视,url
 东方卫视,url
+东南卫视,url
+海南卫视,url
+河北卫视,url
 河南卫视,url
+吉林卫视,url
+江苏卫视,url
+江西卫视,url
+辽宁卫视,url
+宁夏卫视,url
+青海卫视,url
+陕西卫视,url
+三沙卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
@@ -67,7 +84,6 @@ CETV-4,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
-欢笑剧场,url
 法治天地,url
 纪实人文,url
 都市剧场,url
