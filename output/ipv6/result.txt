@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-04-30 19:51:22,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-05-01 07:03:24,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
-CCTV-13,http://pull-hls-f11.douyincdn.com/media/stream-695714359383425708.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1777628651&major_anchor_level=common&neq=1&sign=8b16cc180ce95c845219f8cccdcb9b5b&t_id=037-202604241744105DB92CAAEC4993C5B1D5-5dxGqL
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -13,7 +12,6 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 
 ☘️上海频道,#genre#
 欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001193/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
-欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 
 🌊港·澳·台,#genre#
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -34,7 +32,6 @@ CCTV-2,url
 CCTV-3,url
 CCTV-4,url
 CCTV-5,url
-CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
@@ -59,23 +56,11 @@ CETV-4,url
 电视指南,url
 世界地理,url
 兵器科技,url
-广东卫视,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
 东方卫视,url
-东南卫视,url
-海南卫视,url
-河北卫视,url
 河南卫视,url
-吉林卫视,url
-江苏卫视,url
-江西卫视,url
-辽宁卫视,url
-宁夏卫视,url
-青海卫视,url
-陕西卫视,url
-三沙卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
