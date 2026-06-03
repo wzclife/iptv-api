@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-06-03 07:56:26,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-06-03 22:55:14,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,http://pull-f5.douyinliving.com/media/stream-695910577918968658.flv?expire=1780564780&sign=ebb59e73ca90b4a2b1145c2119c27037&volcSecret=ebb59e73ca90b4a2b1145c2119c27037&volcTime=1780564780&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&unique_id=stream-695910577918968658_850_flv&t_id=037-202605281719407F41169D2C67DC3AB647-6ZbQfN
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
 
 💰央视付费频道,#genre#
@@ -15,8 +16,8 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 🌊港·澳·台,#genre#
 翡翠台,http://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://cdn6.163189.xyz/163189/fct
-翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,http://o11.163189.xyz/stream/tvb/fct/
+翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,http://r.jdshipin.com/thuYX
 明珠台,http://o11.163189.xyz/stream/tvb/mzt/
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
@@ -50,7 +51,9 @@ CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -65,22 +68,29 @@ CETV-3,url
 湖南卫视,url
 北京卫视,url
 湖北卫视,url
+黑龙江卫视,url
 安徽卫视,url
+重庆卫视,url
 东方卫视,url
 东南卫视,url
 甘肃卫视,url
 广西卫视,url
+贵州卫视,url
+海南卫视,url
 河北卫视,url
 河南卫视,url
+吉林卫视,url
 江苏卫视,url
 江西卫视,url
 辽宁卫视,url
 内蒙古卫视,url
+宁夏卫视,url
 青海卫视,url
 山东卫视,url
 陕西卫视,url
 四川卫视,url
 深圳卫视,url
+三沙卫视,url
 天津卫视,url
 西藏卫视,url
 云南卫视,url
