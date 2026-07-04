@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-04 19:53:20,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-07-05 07:08:05,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -13,12 +13,6 @@ CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u
 ☘️上海频道,#genre#
 
 🌊港·澳·台,#genre#
-明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://r.jdshipin.com/ZQ4kN
-明珠台,http://o11.163189.xyz/stream/tvb/mzt/
-明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
@@ -31,7 +25,6 @@ CCTV-2,url
 CCTV-3,url
 CCTV-4,url
 CCTV-5,url
-CCTV-5+,url
 CCTV-6,url
 CCTV-7,url
 CCTV-8,url
@@ -43,10 +36,7 @@ CCTV-14,url
 CCTV-15,url
 CCTV-16,url
 CCTV-17,url
-CETV-1,url
-CETV-2,url
 CETV-3,url
-CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -59,15 +49,10 @@ CETV-4,url
 兵器科技,url
 浙江卫视,url
 湖南卫视,url
-北京卫视,url
 湖北卫视,url
-东方卫视,url
-东南卫视,url
 贵州卫视,url
 海南卫视,url
 河南卫视,url
-江苏卫视,url
-江西卫视,url
 辽宁卫视,url
 山东卫视,url
 七彩戏剧,url
@@ -84,6 +69,7 @@ CETV-4,url
 都市剧场,url
 金山电视台,url
 翡翠台,url
+明珠台,url
 凤凰中文,url
 凤凰资讯,url
 凤凰卫视,url
