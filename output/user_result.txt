@@ -1,27 +1,29 @@
 🕘️更新时间,#genre#
-2026-08-07 09:35:36,http://39.77.159.145:4002/rtp/239.253.254.192:8000
+2026-08-07 19:05:03,http://173.208.212.130:8181/1080p/cctv4.m3u8
 
 📺央视频道,#genre#
+CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
 CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
+CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
+CCTV-6,http://173.208.212.130:8181/1080p/cctv6.m3u8
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
-CCTV-9,http://221.13.235.58:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-13,https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
+CCTV-14,http://173.208.212.130:8181/1080p/cctv14.m3u8
 CCTV-16,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001258/index.m3u8?streamid=a78e16d1a56172e5525dedde279787a3&streamkey=070kmnWlSO6tVxvh6JyoORGIRdEtU2N6uMhBr52XFXMlpDP5cJR3WbAE4XDUyMtM85fygRhPAwq9wyn0AD7vg5QKiMGxk82vdtaBG0RYT7p2mBDXWyty&token=1775753992-d3736074ec706d13-0-d4be0b2d62639f66eea98eb8ecb876a6
 CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
+CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
-文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
@@ -29,8 +31,8 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
 女性时尚,http://207.56.13.146:81/cdnlive/nxss.m3u8
 高尔夫网球,http://183.220.107.138:4022/rtp/239.10.0.224:5140
-风云足球,http://192.151.150.154/live/fyzq.m3u8
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
+风云足球,http://192.151.150.154/live/fyzq.m3u8
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 电视指南,http://45.192.97.170:8880/play/2138.m3u8
 电视指南,rtsp://115.153.245.70/PLTV/88888888/224/3221226969/86129034.smil
@@ -44,12 +46,14 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 📡卫视频道,#genre#
 浙江卫视,http://198.204.228.26/live/zjwshd.m3u8
+湖北卫视,http://115.48.161.87:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+江西卫视,http://115.48.161.87:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️上海频道,#genre#
-上海外语,http://139.196.151.191/rtp/239.45.1.127:5140
+七彩戏剧,http://139.196.151.191:2051/rtp/239.45.3.61:5140
 东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
 东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
 东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
@@ -58,22 +62,23 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
 全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+欢笑剧场,http://139.196.151.191/rtp/239.45.3.196:5140
+欢笑剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221225734/10000100000000060000000000901456_0.smil
+欢笑剧场,rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=gf001&userid=gf001
+欢笑剧场,http://183.220.107.138:4022/rtp/239.10.0.129:5140
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
 金山电视台,https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 
 🌊港·澳·台,#genre#
 翡翠台,rtmp://223.76.215.33/live/xaingjiaoge-jade
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
-明珠台,http://r.jdshipin.com/jUx8K
 明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://r.jdshipin.com/jUx8K
 凤凰中文,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzw
 凤凰资讯,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fhzx
-凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
-凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视,http://218.206.193.218:8888/hls/67/index.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
@@ -89,12 +94,40 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 
 🈳无结果频道,#genre#
-七彩戏剧,url
+CCTV-1,url
+CCTV-2,url
+CCTV-3,url
+CCTV-5+,url
+CCTV-7,url
+CCTV-8,url
+CCTV-11,url
+CCTV-12,url
+CCTV-15,url
+CCTV-17,url
+CETV-1,url
+CETV-2,url
+CETV-4,url
+广东卫视,url
+北京卫视,url
+黑龙江卫视,url
+重庆卫视,url
+东方卫视,url
+东南卫视,url
+海南卫视,url
+河北卫视,url
+吉林卫视,url
+江苏卫视,url
+辽宁卫视,url
+宁夏卫视,url
+青海卫视,url
+陕西卫视,url
+三沙卫视,url
+上海外语,url
 上海教育,url
+上海新闻综合,url
+上海第一财经,url
 嘉定电视台,url
 崇明电视台,url
-欢笑剧场,url
-纪实人文,url
 J2,url
 东森综合,url
 Now剧集,url
