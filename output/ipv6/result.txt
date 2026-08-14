@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-14 19:07:36,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-15 06:35:58,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -16,24 +16,17 @@ CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-靖天资讯,http://4gtv.cnlive.club/channel/3fae463b/index.m3u8?q=1782639885837
-靖天资讯,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
-靖天资讯,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv065
 
 🈳无结果频道,#genre#
 CCTV-2,url
-CCTV-4,url
 CCTV-5,url
-CCTV-6,url
+CCTV-7,url
+CCTV-8,url
 CCTV-10,url
-CCTV-11,url
-CCTV-14,url
 CCTV-15,url
 CCTV-17,url
 CETV-1,url
-CETV-2,url
 CETV-3,url
-CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -44,20 +37,30 @@ CETV-4,url
 电视指南,url
 世界地理,url
 兵器科技,url
-北京卫视,url
-贵州卫视,url
+湖北卫视,url
+黑龙江卫视,url
+安徽卫视,url
+重庆卫视,url
+东方卫视,url
+东南卫视,url
+甘肃卫视,url
+河北卫视,url
 河南卫视,url
 吉林卫视,url
+江苏卫视,url
 江西卫视,url
+辽宁卫视,url
 内蒙古卫视,url
 宁夏卫视,url
 四川卫视,url
-云南卫视,url
+深圳卫视,url
+天津卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
 东方财经,url
 全纪实,url
+动漫秀场,url
 嘉定电视台,url
 崇明电视台,url
 新闻综合,url
@@ -74,4 +77,5 @@ Viutv,url
 东森综合,url
 Now剧集,url
 Now华剧,url
+靖天资讯,url
 星卫娱乐,url
