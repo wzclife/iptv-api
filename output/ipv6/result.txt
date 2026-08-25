@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-25 06:39:14,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-25 18:43:56,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
@@ -18,12 +18,11 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 🈳无结果频道,#genre#
 CCTV-5,url
-CCTV-7,url
-CCTV-9,url
 CCTV-10,url
-CCTV-11,url
 CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
@@ -34,15 +33,11 @@ CETV-3,url
 电视指南,url
 世界地理,url
 兵器科技,url
+广东卫视,url
 湖北卫视,url
 安徽卫视,url
 重庆卫视,url
 东方卫视,url
-东南卫视,url
-广西卫视,url
-贵州卫视,url
-河南卫视,url
-吉林卫视,url
 江西卫视,url
 四川卫视,url
 七彩戏剧,url
@@ -62,7 +57,6 @@ CETV-3,url
 翡翠台,url
 凤凰中文,url
 凤凰资讯,url
-纬来育乐,url
 J2,url
 Viutv,url
 东森综合,url
