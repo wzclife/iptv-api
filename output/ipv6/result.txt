@@ -1,10 +1,11 @@
 🕘️更新时间,#genre#
-2026-08-26 06:41:09,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-08-26 18:45:05,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 💰央视付费频道,#genre#
+第一剧场,https://7612-5516-affc-d88b.kylintv.tv/live/chinamovie_iphone.m3u8
 
 📡卫视频道,#genre#
 
@@ -20,11 +21,12 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 CCTV-5,url
 CCTV-10,url
 CETV-1,url
+CETV-2,url
 CETV-3,url
+CETV-4,url
 文化精品,url
 央视台球,url
 风云音乐,url
-第一剧场,url
 女性时尚,url
 高尔夫网球,url
 风云足球,url
