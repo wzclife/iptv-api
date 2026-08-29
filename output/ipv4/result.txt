@@ -1,19 +1,19 @@
 🕘️更新时间,#genre#
-2026-08-29 11:39:50,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-08-29 23:02:01,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CETV-1,http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
+CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
+CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
 CETV-3,http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 CETV-3,http://198.204.228.26/live/cetv3.m3u8
 CETV-3,http://107.150.60.122/live/cetv3.m3u8
-CETV-3,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cetv3
-CETV-3,http://204.12.221.218:8181/3m1080p/cetv3.m3u8
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 
 💰央视付费频道,#genre#
-文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=bc185d1ef1e528922e83efd845006277&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+文化精品,https://live.264788.xyz/channel/yangshiwenhuajingpin?streamid=618d33181dba2b51e9d3752d73d737b8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 文化精品,http://207.56.13.146:81/cdnlive/ysjp.m3u8
 央视台球,http://207.56.13.146:81/cdnlive/ystq.m3u8
 风云音乐,http://207.56.13.146:81/cdnlive/fyyy.m3u8
@@ -32,9 +32,9 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 电视指南,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dszn
 电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 世界地理,http://192.151.150.154/live/sjdl.m3u8
-世界地理,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sjdl
 兵器科技,http://192.151.150.154/live/gfjs.m3u8
 
 📡卫视频道,#genre#
@@ -43,15 +43,8 @@ CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️上海频道,#genre#
-东方财经,http://139.196.151.191:2051/rtp/239.45.1.119:5140
-东方财经,http://115.150.63.77:9902/tsfile/live/1042_1.m3u8
-东方财经,rtsp://115.153.245.70/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.254.81/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.240.228:554/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.212.72/PLTV/88888888/224/3221225609/iptv7995.smil
-东方财经,rtsp://115.153.233.154/PLTV/88888888/224/3221225609/iptv7995.smil
+全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
 新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-欢笑剧场,http://139.196.151.191/rtp/239.45.3.196:5140
 法治天地,https://live.264788.xyz/channel/fazhitiandi?streamid=fe165cb56510151228c7f1f898f9cc2d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 纪实人文,http://183.220.107.138:4022/rtp/239.10.0.192:5140
 都市剧场,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
@@ -67,14 +60,28 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 星卫娱乐,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 
 🈳无结果频道,#genre#
+CCTV-2,url
+CCTV-4,url
 CCTV-13,url
+CETV-2,url
+CETV-4,url
+湖南卫视,url
+湖北卫视,url
+安徽卫视,url
+甘肃卫视,url
+河北卫视,url
+江西卫视,url
+辽宁卫视,url
 青海卫视,url
+深圳卫视,url
+三沙卫视,url
 七彩戏剧,url
 上海外语,url
 上海教育,url
-全纪实,url
+东方财经,url
 嘉定电视台,url
 崇明电视台,url
+欢笑剧场,url
 明珠台,url
 凤凰卫视,url
 TVBS亚洲,url
